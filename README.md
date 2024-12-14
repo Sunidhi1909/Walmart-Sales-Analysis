@@ -28,17 +28,17 @@ Top Metrics:
 
 ## Key Features
 
-Filter Panel:
+1. Filter Panel:
   Filters include Gender, Product Line, Customer Type, and Branch/City to slice and analyze the data.
 
-Dynamic Visualizations:
+2. Dynamic Visualizations:
   Bar charts, pie charts, and line graphs illustrate sales trends and performance metrics.
   A geographical map shows the sum of gross income across city branches.
 
-Focus on Payment Methods:
+3. Focus on Payment Methods:
   Performance is categorized by Ewallet, Cash, and Credit Card, offering insights into preferred payment modes.
 
-Interactive Metrics:
+4. Interactive Metrics:
   Summary cards at the top provide at-a-glance information for key KPIs.
 
 ## Tools Used
