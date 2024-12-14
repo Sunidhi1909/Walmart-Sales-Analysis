@@ -42,16 +42,16 @@ Top Metrics:
   Summary cards at the top provide at-a-glance information for key KPIs.
 
 ## Tools Used
-POWER BI
-SQL
+1. POWER BI
+2. SQL
 
 ## Files in Repository
-Recording of the report
-Walmart Dataset File
-SQL file of Walmart Sales Analysis
+1. Recording of the report
+2. Walmart Dataset File
+3. SQL file of Walmart Sales Analysis
 
 ## Skills Used 
-Data Analysis
-Data Visualization
-Business Analytics
-Data Cleaning and Preparation
+1. Data Analysis
+2. Data Visualization
+3. Business Analytics
+4. Data Cleaning and Preparation
