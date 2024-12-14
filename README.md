@@ -9,21 +9,21 @@ Top Metrics:
 3. Primary Payment Mode: Cash
 4. Rating: 6.97K (with a range indicator shown)
 
-Sales Performance by Customer Type:
+## Sales Performance by Customer Type:
   Both Member and Normal customers contributed nearly equally to gross income.
 
-Gross Margin Percentage by Payment Method:
+## Gross Margin Percentage by Payment Method:
   Ewallet and Cash have the highest gross income (1.64K), followed by Credit Card (1.48K).
 
-Geographical Performance:
+## Geographical Performance:
   Sales are mapped across branches A, B, and C, located within Myanmar.
 
-Product Line Analysis:
+## Product Line Analysis:
 
-The Product Line Quantity pie chart shows:
+1. The Product Line Quantity pie chart shows:
   Six product categories contribute fairly equally, with quantities ranging from 854 to 971.
 
-Tax Contribution Over Time:
+2. Tax Contribution Over Time:
   Sum of 5% Tax fluctuates, peaking at 344-356 on key dates in Feb and March 2019.
 
 ## Key Features
